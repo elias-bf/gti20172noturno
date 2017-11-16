@@ -1,0 +1,2 @@
+git ls-files: listar os arquivos controlados pelo git
+git status: verificar a situação da área de stage e do diretório local
