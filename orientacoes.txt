@@ -9,3 +9,12 @@ listar os arquivos controlados pelo git
 
 visualizar o historico de mudanças
 	git log
+
+Enviar arquivos modificados para a area de stage
+	git add nomeDoArquivo
+
+Enviar os dados "commitados" para o repositorio remoto
+	git push
+
+Atualizar o repositorio local com as modificações remotas
+	git pull
