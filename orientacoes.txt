@@ -1,0 +1,11 @@
+Clonar um projeto (copiar um repositorio remoto para sua maquina local)
+	git clone https://github.com/usuario/repositorio
+
+verificar a situação da área de stage e do diretorio local
+	git status
+
+listar os arquivos controlados pelo git
+	git ls-files
+
+visualizar o historico de mudanças
+	git log
