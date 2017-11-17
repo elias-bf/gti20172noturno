@@ -39,7 +39,7 @@ for i in range(brange):
 
 host = 2 ** brange - 2
 
-       
+print "Tabela de  Sub-Redes"
 print 'Resultados:..............'
 print "Endereco: " , iplit
 print "Mascara: " , ".".join(map(str, mask))
