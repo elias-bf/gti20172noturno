@@ -1,0 +1,4 @@
+﻿Comando git ls-files: Lista os arquivos controlados pelo git
+
+
+Comando git status: verifica a situação da área de stage e do diretorio local
