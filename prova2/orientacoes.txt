@@ -1,11 +1,11 @@
-A cada questão respondida, 
-	Adicione á area de stage
+A cada questão da prova, 
+	Crie um arquivo com a resposta e adicione-o a area de stage
 		git add nomeArquivo.txt
 
 	Gere uma versão da sua resposta (commit)
 		git commit -m "mensagem que vc desejar"
 
-	envie as mudanças para o github
+	Envie as mudanças para o github
 		git push
 
 		obs: lembre-se de dar o comando "git pull" antes do push para atualizar seu repositório.
