@@ -14,3 +14,8 @@ git status
 
 //adiciona a area de stage
 git add nomeArquivo
+
+gti commit -m "Um comentario qualqeur sobre a versão que será geradad"
+	//É necessário se identificar para o git antes de fazer este comando
+	//git config user.email "seuemail"
+	//git config user.name "seu nome"
