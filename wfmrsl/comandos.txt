@@ -1,0 +1,8 @@
+sudo apt-get install git-core
+git clone hhttps://github.com/elias-bf/gti20172noturno.git
+cd gti20172noturno
+mkdir wfmrsl
+//criar um arquivo qualquer
+ mkdir
+//verificar a situação
+
