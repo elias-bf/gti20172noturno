@@ -26,7 +26,14 @@ public class Automovel {
    public Automovel(){
        
    }
-
+    
+    public void setId(int id){
+    	this.id=id;
+    }
+    public int getId(){
+	return this.id;
+    }
+    
     public String ImpAutomovel() {
         return "Identificação: " + ID + "\nFabricante: " + fabricante + "\nModelo: " + modelo + "\nCor: " + cor + "\nPlaca: " + placa + "\nChassi: " + chassi + "\nAno: " + ano+"\n";
     }
