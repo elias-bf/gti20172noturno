@@ -21,3 +21,5 @@ gti commit -m "Um comentario qualqeur sobre a versão que será geradad"
 	//git config user.name "seu nome"
 
 git ls-files
+
+git log
