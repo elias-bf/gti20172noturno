@@ -1,0 +1,16 @@
+
+sudo apt-get install git-core
+
+git clone https://github.com/elias-bf/gti20172noturno.git
+
+cd gti20172noturno
+
+mkdir ebf
+
+//criar um arquivo qualquer
+
+//verificar a situação
+git status
+
+//adiciona a area de stage
+git add nomeArquivo
