@@ -20,6 +20,13 @@ gti commit -m "Um comentario qualqeur sobre a versão que será geradad"
 	//git config user.email "seuemail"
 	//git config user.name "seu nome"
 
+<<<<<<< HEAD
 git ls-files
 
 git log
+=======
+git pull
+
+
+git push
+>>>>>>> 2b18f3bfd18430be40291f821de2064b4158bb45
