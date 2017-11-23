@@ -26,6 +26,7 @@ public class Automovel {
    public Automovel(){
        
    }
+<<<<<<< HEAD
     
     public void setId(int id){
     	this.id=id;
@@ -34,6 +35,11 @@ public class Automovel {
 	return this.id;
     }
     
+=======
+	
+    //Teste teste 
+
+>>>>>>> b0fb24158ad421abd8ca53614afa0e9fd4f2f985
     public String ImpAutomovel() {
         return "Identificação: " + ID + "\nFabricante: " + fabricante + "\nModelo: " + modelo + "\nCor: " + cor + "\nPlaca: " + placa + "\nChassi: " + chassi + "\nAno: " + ano+"\n";
     }
