@@ -27,6 +27,25 @@ public class Automovel {
        
    }
 
+    
+    public void setId(int id){
+    	this.id=id;
+    }
+    public int getId(){
+	return this.id;
+    }
+    
+    public void setFabricante(String fabricante){
+	this.fabricante=fabricante;
+    }
+    public String getFabricante(){
+	return this.fabricante;
+    }
+	
+	
+    //Teste teste 
+
+
     public String ImpAutomovel() {
         return "Identificação: " + ID + "\nFabricante: " + fabricante + "\nModelo: " + modelo + "\nCor: " + cor + "\nPlaca: " + placa + "\nChassi: " + chassi + "\nAno: " + ano+"\n";
     }
