@@ -1,0 +1,4 @@
+Questão 3
+______________
+
+a) Criar um commit do arquivo "principal.java" localmente, para posteriormente envio ao repositorio remoto.

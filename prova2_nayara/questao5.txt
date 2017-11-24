@@ -1,0 +1,4 @@
+5
+
+(n1 = 8; n2 = 2)	resultado = 4
+(n1 = 30; n2 = 0)	resultado = aviso de impossibilidade
