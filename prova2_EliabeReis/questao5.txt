@@ -1,0 +1,6 @@
+Entradas 
+ (Numerador=10; Denominador=2) 
+(Numerador=9; Denominador=2) 
+Saída
+Resultado=5
+Resultado=4.5
