@@ -1,0 +1,13 @@
+Questao 7.
+Requisitos funcionais
+
+1
+1.0 - O usuario poderá catalagar caracteristicas do produto ex: Titulo de autores, preço de venda, tipo de acabamento.
+
+1.2 - O usuario poderá cadastrar os dados das editoras ex: nome e telefone.
+
+1.3 - O cliente virtual poderá visitar o site sem identificar até que decida realizar a compra, tendo somente que especificar a quantidade e se é pra presente.
+
+1.4 - O cliente que navega no site para realizar a compra exige-se que ele realize um cadastro com dados pessoais, ex: nome, e-mail, senha e dados do cartão, para finalização de compra.
+
+1.5 - Com finalização da compra, os livros a serem despachados deve ter o registro da data de envio do pedido para cada cliente.
