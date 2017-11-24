@@ -1,0 +1,18 @@
+7
+
+Requisitos funcionais
+
+1. RF001: O sistema deverá armazenar os dados dos livros
+Deverão ser registrados o título, os autores, o preço de venda, o tipo de acabamento (brochura, encadernado ou especial) e a editora dos livros da livraria
+
+2. RF 002: O sistema deverá armazenar informações sobre a editora
+Deverão ser registrados, para controle, o nome e o telefone da editora
+
+3. RF 003: Os pedidos só podem ser pagos com cartão
+O sistema só aceitará pedidos efetuados com o uso de cartão 
+
+4. RF 004: O cliente deverá ser cadastrado na loja virtual
+Ao final da compra, caso o cliente ainda não possua um cadastro na loja, deverá realizar seu cadastro na finalização do pedido, inclunindo nome, endereço, e-mail e senha
+
+5. Rf 005: Os pedidos devem ser despachados
+Os funcionários da livraria devem despachar os pedidos para os clientes

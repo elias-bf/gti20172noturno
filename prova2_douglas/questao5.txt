@@ -1,0 +1,2 @@
+Primeiro caso: operação:[N=10,D=2] resultado:[R=5]
+Segundo caso: operação:[N=20,D=5] resultado:[R=4]

@@ -1,0 +1,2 @@
+x+y=z
+[n1=10/n2=2] [Resultado=5]
