@@ -1,0 +1,9 @@
+Análise = Estudo detalhado dos dados levantados durante o levantamento de requisitos
+
+Projeto = Como o sistema irá funcionar internamente etendendo todas as exigências do cliente
+
+Implementação = O sistema é codificado a partir dos dados fornecidos pelo projeto
+
+Teste = Testando cada funcionalidade de cada módulo do programa entes de ser implantado
+
+Implantação = instalação do software no ambiente do usuário
