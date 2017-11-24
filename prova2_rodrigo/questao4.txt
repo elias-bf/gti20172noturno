@@ -1,0 +1,4 @@
+Teste e o processo de encontrar onde esta o defeito, apos revelada a presença da falha, a mesma e corrigida O processo de
+encontrar e reduzir defeitos num aplicativo de software e ja o Debugging tem a finalidade diferente o processo de teste
+sao dedicados a esbelecer a existencia de defeitos em um sistema de software. - DEBUGGING E UM PROCESSO DE 
+LOCALIZAÇÃO E CORRIGE ESSES DEFEITOS UTILIZANDO OU NAO FERRAMENTAS.

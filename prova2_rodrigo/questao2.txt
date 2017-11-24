@@ -1,0 +1,17 @@
+Analise: De onde são construídos modelos a fim de representar o sistema de software a ser desenvolvido,
+Assim é necessário definir o que o sistema deve fazer, antes de definir como o sistema irá fazer.
+
+Projeto: como o sistema funcionará internamente, para que os requisitos do cliente possam ser atendidos. 
+Alguns aspectos devem ser considerados nessa fase de projeto do sistema, 
+como: arquitetura do sistema, linguagem de programação utilizada, 
+Sistema Gerenciador de Banco de Dados (SGBD) utilizado, padrão de interface gráfica, entre outros.
+
+Implementaçao: o sistema é codificado a partir da descrição computacional da fase de projeto em uma outra linguagem,
+ onde se torna possível a compilação e geração do código-executável para o desenvolvimento software.
+
+Teste: Diversas atividades de testes são executadas a fim de se validar o produto de software, 
+testando cada funcionalidade de cada módulo, levando em consideração a especificação feita na fase de projeto.
+  
+Implantaçao: Por fim a implantação compreende a instalação do software no ambiente do usuário. 
+O que inclui os manuais do sistema, importação dos dados para o novo sistema e treinamento dos
+ usuários para o uso correto e adequado do sistema. 
