@@ -1,0 +1,7 @@
+Questão 5
+______________
+
+  Entrada	Saida
+n1=10; n2=2	Resultado=5
+
+n1=10; n2=-5	Resultado=-2
