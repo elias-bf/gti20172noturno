@@ -1,0 +1,5 @@
+1 - de um livro, deseja-se saber: titulo, autores, preço de venda, tipo de acabamento e editora - O software cadastra um livro 
+2 - de uma editora deseja-se saber: nome e telefone. - O software registra editora
+3 - para cada livro incorporado ao pedido, deve-se informar a quantidade desejada e se o livro deverá ser embrulhado para presente. - registra a quantidade de livro
+4 - quando o primeiro livro é incorporado ao pedido, registra-se a data de inicio do pedido. - registra a data do pedido
+5 - Quando o cliente finalizar a compra, ele deve identificar-se. - O software identifica o cliente
