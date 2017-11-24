@@ -1,0 +1,7 @@
+git clone
+cd pasta 
+mkdir "meunome"
+//criar arquivo
+git add arquivo.txt
+git commit -m "comentario"
+git push
