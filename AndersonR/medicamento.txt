@@ -1,0 +1,88 @@
+public class medicamento {
+    
+    static public int cont=1;
+    private int id ;
+    private String nome;
+    private String principioAtivo;
+    private String und;
+    private int qtdeEstoque;
+    private String dataValidade;
+    
+    
+    public medicamento(){
+     this.id = cont;
+     cont++;	    
+    }    
+    
+    public medicamento(int id, String nome, String principioAtivo , String und, int qtdeEstoque, String dataValidade) {
+		this.id = cont;
+		this.nome = nome;
+		this.principioAtivo = principioAtivo;
+		this.und = und;
+		this.qtdeEstoque = qtdeEstoque;
+        this.dataValidade = dataValidade;
+		cont++;
+	}
+
+    
+    
+    public int getId(){
+        return this.id;
+    }        
+    public void setId(int Id){
+        this.id = Id;
+    }
+    
+    public String getNome(){
+        return this.nome;
+    }
+    public void setNome(String nome){
+        this.nome = nome;
+    }        
+    
+    public String getPrincipioAtivo(){
+        return this.principioAtivo;
+    }
+    public void setPrincipioAtivo(String PrincipioAtivo){
+        this.principioAtivo = PrincipioAtivo;
+    }       
+     
+    public String getUnd(){
+        return this.und;
+    }
+    public void setUnd(String und){
+        this.und = und;
+    } 
+    
+    public int getQtdeEstoque(){
+        return this.qtdeEstoque;
+    }        
+    public void setQtdeEstoque(int Qtdeestoque){
+        this.qtdeEstoque = Qtdeestoque;
+    }     
+            
+    public String DataValidade(){
+        return this.dataValidade;
+    }        
+    public void DataValidade(String dataValidade){
+        this.dataValidade = dataValidade;
+    }        
+            
+    public String retornaDados(){
+        return  "Id: " + id + "\nNome: " + nome + "\nPrincipio ativo: " + principioAtivo + "\nUnd: "+ und + "\nQuantidade em estoque: " + qtdeEstoque + "\nData de validade: " + dataValidade;
+    }       
+            
+          
+	
+  
+  	public static void main(String [] args){
+    medicamento Medicamento = new medicamento(0,"10","20", "", 5,"01/10/2020");  
+    
+    Medicamento.setNome("");
+    
+    JOptionPane.showMessageDialog(null, Medicamento.retornaDados());
+    
+
+    
+  }
+}
