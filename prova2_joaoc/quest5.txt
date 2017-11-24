@@ -1,0 +1,6 @@
+esposta 5 
+
+
+Entrada			Saida
+(n1=10/n2=2)		Resultado = 5
+(n1=25/n2=0)		Resultado = avido de impossibilidade
