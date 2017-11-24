@@ -1,0 +1,9 @@
+1- Cadastrar livro os titulo, autores, preço de venda, tipo de acabamento e editora.
+
+2- Cadastrar editora o nome e telefone.
+
+3- Adicionar livro no pedido.
+
+4- Cadastrar cliente com o nome, endereço, e-mail e senha.
+
+5- Finalizar Pedido.
