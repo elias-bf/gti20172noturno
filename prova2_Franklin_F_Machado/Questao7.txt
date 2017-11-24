@@ -1,0 +1,9 @@
+1- O software registra a a data e o início do pedido
+
+2- O software registra a data do envio do pedido para o cliente
+
+3- O software efetua o cadastro do cliente
+
+4 - Registra o valor pago no pedido
+
+5 - Identifica os pedidos que não foram finalizados em 10 dias após o seu inicio e exclui do sistema
