@@ -1,0 +1,11 @@
+git status
+
+
+Permite ver quais arquivos estao fora do controle, quais foram modificados e estão esperando
+por uma descrição de modificação e etc...
+
+
+git ls-files
+
+
+Mostra os arquivos que estao sendo controlados (indexados) pelo git.

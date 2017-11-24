@@ -1,0 +1,14 @@
+import javax.swing.JOptionPane;
+
+public class principal{
+  
+  public static void main(String [] args){
+    medicamento Medicamento = new medicamento(0,"10","20", "", 5,"01/10/2020");  
+    
+    Medicamento.setNome("");
+    
+    JOptionPane.showMessageDialog(null, Medicamento.retornaDados());
+    
+
+    
+  }
