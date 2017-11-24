@@ -1,0 +1,2 @@
+Questao 4.
+Apesar de parecidos eles tem funcionalidades diferentes, o Teste ele simplesmente revela se o software tem algum defeito, ele so mostra se tem ou não. o Debbuggin ele é responsável por encontrar aonde está precisamente o defeito, e depois de uma vez encontrado ele se encarrega de corrigir e tratar este defeito. Assim por diante.

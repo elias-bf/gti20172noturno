@@ -1,0 +1,2 @@
+Teste: Atividade que revela que o software tem defeitos, é o processo de execução de um programa revelando alguma falha.
+Debugging: Processo de encontrar onde está o defeito, e após revelada a falha encontra-lá e corrigi-lá. É o processo de encontrar e reduzir defeitos num aplicativo de software.

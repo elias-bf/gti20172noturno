@@ -1,0 +1,5 @@
+Questão 4
+______________
+
+O teste é feito com o programa em execução afim de verificar se há possiveis erros de execução no software,
+porém o Debugging inspeciona o software linha a linha localizando e informando o erro encontrado.

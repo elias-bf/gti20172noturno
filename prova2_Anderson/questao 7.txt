@@ -1,0 +1,17 @@
+01 - Cadastro de Livros
+O programa deverá salvar os cadastros dos livros vendidos, título, autores,venda, editora.
+
+02 - Cadastrar Editoras
+O programa deverá salvar os cadastro das editoras,ter o nome do administrador(a) da livraria, 
+deverá conter as informações de nome e telefone das editoras.
+
+03 - Controle do Carrinho de Compras
+Para cada produto adicionado no carrinho de compras o cliente necessita informar a quantidade de itens desejados e 
+se o livro deve ser embrulhado para presente.
+
+04 - Cadastro de Clientes
+Para concluir a compra o cliente precisarar se identificar para isso será necessario informar: nome, endereço, e-mail e senha.
+Esse cadastro pode ser feito mesmo sem a efetivação de compra.
+
+05 - Controle de envio de pedidos
+A cada pedido que será enviado é necessário que seja cadastrado no sistema a data de envio do pedido para o cliente.

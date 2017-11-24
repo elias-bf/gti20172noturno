@@ -1,0 +1,2 @@
+Teste: revela se tem defeito, é um processo de execução do programa com o objetivo de revelar falhas.
+Debugging: Processo de encontrar onde está o defeito, onde o defeito deve ser encontrado e corrigido.

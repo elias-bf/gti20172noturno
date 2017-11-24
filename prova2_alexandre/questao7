@@ -1,0 +1,18 @@
+Questão 7:
+
+RF001: Cadastro
+O sistema deve permitir realizar operações inserção, atualização e exclusão de livros e suas informações, o acesso a essa opção deve ser com login e senha do administrador da livraria;
+
+RF002: Consulta
+O sistema deve permitir realizar operações de consulta de livros e suas informações como título, autores, preço de venda
+
+RF003: Pedido
+O sistema deve armazenar por até 10 dias o pedido do cliente, ao clicar em finalizar o pedido, o sistema deve verificar se o cliente já tem cadastro, caso contrario, deve conduzilo a opção de cadastro;
+
+RF004: Pagamento
+O sistema deve permitir pagamento apenas com cartão, e deve verificar a autorização junto ao Sistema de Operadoras de Cartão;
+
+RF005: Despacho
+O sistema deve permitir registrar a data de envio do pedido;
+
+
