@@ -18,5 +18,8 @@ public class Exer33{
 	      cont++;
 	    }
 	System.out.println("Soma das 20 séries: " + soma);
+
 	}
+	 //mudando arquivo para professor elias
+
 	} 

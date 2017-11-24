@@ -17,4 +17,6 @@ public class Exer32{
         }
         System.out.println(Soma); 
     }
+
+	//mudando os aquivos para exercicio elias 
 }
