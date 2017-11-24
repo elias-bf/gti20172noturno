@@ -1,0 +1,7 @@
+2
+
+Análise - serão verificadas as estimativas para a elaboração do projeto do sistema
+Projeto - O escopo do projeto é mais desenvolvido e aprofundado
+Implementação - O que foi definido anteriormente é transferido para a máquina
+Teste - são procurados defeitos que possam atrapalhar a utilização do sistema
+Implantação - o programa é implantado na empresa, para o uso dos funcionários
