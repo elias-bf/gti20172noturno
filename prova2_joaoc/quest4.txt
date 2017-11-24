@@ -1,0 +1,12 @@
+Teste de debugging:
+
+Atividade que revela que o software tem defeito, é um processo de execução de um programa como o objetivo de revelar as presença de falha.
+
+Debugging 
+O processo de encontrar onde esta o defeito. Apos revelar a presença de falha, esta deve ser encontrada e corrigida, é o processo de encontrar e reduzir defeitos num aplicativo de software.
+
+Teste debugging
+Finaliadade diferentes, processo de teste são dedicados a estabelecer a existencia de defeitos em um sistema software.
+
+Debugging 
+É um processo de localisação e corrige esses defeitos(utilizando ou não ferramentas).
