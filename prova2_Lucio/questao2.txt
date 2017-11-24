@@ -1,0 +1,12 @@
+Questão 2
+______________
+
+Análise: Nele se descreve o que o software deve fazer. Analisa-se o dominio do problema e o dominio da solucao.
+
+Projeto: É feito o projeto da arquitetura do software e o projeto detalhado.
+
+Implementação:O projeto é traduzido para uma linguagem que a maquina seja capaz de executar.
+
+Teste: É feito o teste de unidade e a integração dos componentes para assim ser feito também o teste do software como um todo.
+
+Implantação: O softare é instalado e configurado no ambiente de produção. Caso seja necessário é feito treinamento.

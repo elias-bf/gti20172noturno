@@ -1,0 +1,5 @@
+Analise: Analisar os requisitos 
+Projeto:Construir e estudar
+Implementação:escrever o codigo
+Teste: verificar e validar
+Implantação:configurar o servidor, produzir documentação e importar dados
