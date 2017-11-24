@@ -1,14 +1,72 @@
 import javax.swing.JOptionPane;
+import java.util.ArrayList;
 
-public class principal{
-  
-  public static void main(String [] args){
-    medicamento Medicamento = new medicamento(0,"10","20", "", 5,"01/10/2020");  
-    
-    Medicamento.setNome("");
-    
-    JOptionPane.showMessageDialog(null, Medicamento.retornaDados());
-    
 
-    
-  }
+public class Principal{
+	static ArrayList<automovel> listaAutomovel = new ArrayList<automovel>(); 
+	
+	public static int Menu(){
+	
+	int op = Integer.parseInt(JOptionPane.showInputDialog("Menu \n0 - Sair \n1 - Inserir \n2 - Imprimir"));
+	
+	while(op!=0 && op!=1 && op!=2 && op!=3){
+		JOptionPane.showMessageDialog(null, "Opção Errada! Digite Novamente");
+	return op;	
+	}
+	return op;
+}
+	
+	public static void Inserir(){
+		
+		
+		String fabricante = JOptionPane.showInputDialog("Digite o fabricante");
+		String modelo = JOptionPane.showInputDialog("Digite o modelo");
+		String cor = JOptionPane.showInputDialog("Digite a cor");
+		String chassi = JOptionPane.showInputDialog("Digite o chassi");
+		String placa = JOptionPane.showInputDialog("Digite o placa");
+		int ano = Integer.parseInt(JOptionPane.showInputDialog("Digite o ano"));
+	
+		automovel Automovel = new automovel();
+		
+		
+		Automovel.setFabricante(fabricante);
+		Automovel.setModelo(modelo);
+		Automovel.setCor(cor);
+		Automovel.setPlaca(placa);
+		Automovel.setChassi(chassi);
+		Automovel.setAno(ano);
+		
+		listaAutomovel.add(Automovel);
+		
+}
+	
+	public static void Imprimir(){
+	  String dados = "";
+	
+	  for(int cont=0; cont < listaAutomovel.size(); cont++){
+	  automovel au = listaAutomovel.get(cont);
+	  dados = dados + au.retornaDados();			
+	  }
+	  JOptionPane.showMessageDialog(null, dados);
+	}
+	
+	public static void main(String[]args){
+		int op = -1;
+		
+		while(op!=0){
+		  op=Menu();
+		  
+		  if(op==0){
+		     JOptionPane.showMessageDialog(null, "Sessão Encerrada!");
+		  }
+		
+		  if(op==1){
+			 Inserir();
+		  }
+			
+		  if(op==2){
+			 Imprimir();
+		  }
+}
+}
+}
