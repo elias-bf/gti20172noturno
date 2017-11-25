@@ -1,0 +1,18 @@
+Questão 2:
+
+Análise: (problema)
+É a etapa onde se elicia os requisitos, analisa o pedido do cliente e descobre as necessidades, nessa etapa é gerado o documento de requisitos de software ERS
+
+Projeto: (solução)
+É a etapa onde se estuda as possíveis soluções e cria modelos representativos do software mediante aos requisitos levantados
+
+Implementação: (codificação)
+É a parte de escrever o código fonte, designada ao programador ou designer de software
+
+Teste: (verificação)
+É a parte onde se verifica a presença de defeitos no software, mostra que o programa faz o que deveria e também mostrar que não faz o que não deveria. Feita pelo analista de testes e é gerado um relatório de testes.
+
+Implantação: (entregar)
+É a parte onde se "entrega" o software para o cliente, fazendo as configurações no servidor(caso necessário), treinamentos. É feita pelo suporte e equipe de infra, e é feito um documento de aceitação.
+
+

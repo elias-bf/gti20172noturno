@@ -1,0 +1,3 @@
+4
+
+Teste e debugging são processos diferentes. Teste é uma atividade que revela se existem defeitos no software, podendo indicar a presença de falhas. Já o debugging é um processo cujo objetivo é encontrar  onde está o defeito, ou seja, após encontrada a presença de uma falha, a própria falha é encontrada e corrigida, a fim de reduzir os defeitos de um sistema.

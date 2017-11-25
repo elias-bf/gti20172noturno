@@ -1,0 +1,4 @@
+Entradas:(n1 = 10  / n2 = 5)
+Saída: Resultado  = R
+
+

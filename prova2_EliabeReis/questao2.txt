@@ -1,0 +1,33 @@
+Análise 
+- Eliciar os requisitos > entender
+-Analisar os requisitos  
+Profissionais atuantes (Engenheiro de requisitos / Analista de negócios)
+
+
+
+
+Projeto
+-Estudar as possíveis soluções
+-Construir modelos que representam o software
+Profissionais atuantes (Projetista / Arquiteto de Software)
+
+
+Implementação
+-Testes da unidade
+-Escrever o código
+Profissionais atuantes (Programador / Desing)
+
+
+Teste
+-Verificação (verificar o software)
+-Validação (validar o software)
+Profissionais atuantes (Analista de teste / Testador)
+
+
+Implantação
+-Configuração do servidor
+-Treinar ou capacitar o usúario
+-Produzir a documentação
+-Importar os dados
+
+Profissionais atuantes (Equipe de suporte)

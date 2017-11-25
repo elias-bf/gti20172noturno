@@ -1,0 +1,15 @@
+Questao 5.
+Dois numeros int. (numerador e denominador) e calcular o resto da divisao.
+
+Caso de Teste.
+
+
+ENTRADA DE DADOS              SAÍDA DE DADOS
+
+n1=20 ; n2=2		      resultado=10 
+
+
+ENTRADA DE DADOS	      SAIDA DE DADOS
+n1=6 ; n2=3                   resultado=2
+
+

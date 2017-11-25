@@ -1,0 +1,2 @@
+Questao 3.
+A)  ele adicionou o arquivo principal.java e depois comitou para um futuro envio.
