@@ -1,0 +1,12 @@
+Requisitos Funcionais
+
+1- Quando o primeiro livro e incorporado ao pedido, registra-se a data de inicio do pedido.
+
+2- De um cliente deseja-se saber: nome, endereço, e-mail e senha
+
+3- Os pedidos so podem ser pagos em cartao e, quando autorizado pelo sistema de Operadoras de cartão
+
+4- o numero da autorização e o valor pago devem ser registrados no pedido
+
+5- Pedidos em elaboração que nao forem finalizados ate 10 dias apos o seu inicio são excluidos do sistema.
+

@@ -1,0 +1,3 @@
+questao numero 3
+
+letra A _ Criar um commit do arquivo "principal.java" localmente, para posterior envio ao repositorio remoto
