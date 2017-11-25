@@ -1,0 +1,9 @@
+deseja saber titulo, autores, preço de venda, tipo de acabamento(bruxuras ou encadernamento especial).
+
+cadastrar na finalizacao do pedido
+
+deve identificar-se
+
+pedido em eleboração que nao for finalizado em ate 10 dias a pos o seu inicio sao excluidos do sistema
+
+pedido deve se informar a quantidade desejada e se o livro vai ser embrulhado pra presente.
