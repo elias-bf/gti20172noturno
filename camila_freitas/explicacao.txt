@@ -1,0 +1,5 @@
+- git ls-files
+Este comando lista quais os arquivos estão sobre o controle de versionamento do Git, ou seja, quais destes estão em stage ou estão versionados.
+
+- git status
+Este comando retorna uma listagem com as modifições feitas e uma relação de arquivos em fase de stage além de mostrar quais arquivos sofreram alteração mas não foram comitados.
