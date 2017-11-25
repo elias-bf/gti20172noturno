@@ -1,0 +1,2 @@
+Na fase de teste descobre se o programa tem defeitos
+ja no debugging e onde descobre o defeito e depois ira corrigir a falha

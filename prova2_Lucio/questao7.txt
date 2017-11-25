@@ -1,0 +1,12 @@
+Questão 7
+______________
+
+1- Cadastrar livro (titulo, autores, preço de venda, tipo de acabamento e editora)
+
+2- Cadastrar editora (nome e telefone)
+
+3- Adicionar livro no pedido
+
+4- Cadastrar cliente (nome, endereço, e-mail e senha)
+
+5- Finalizar Pedido

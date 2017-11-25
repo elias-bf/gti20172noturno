@@ -1,0 +1,5 @@
+Questão 2. Análise: estudo feito para analisar as caracteristicas que o software necessita, ao decorrer da criação, atendendo as necessidades do cliente. Um levantamento de informações a serem seguidas e utilizadas.
+Projeto: O esqueleto dessa analise, a pre definição das escolhas já realizadas, para o documento do cliente, com todas as solicitações atendidas.
+Implementação: a fase onde implementa (coloca-se em pratica o estudo levantado e definido) o projeto ja criado, o desenvolvimento real do software para seguir as proximas fases do processo.
+Teste: fase onde o analista testa se o software cumpre todas as exigencias do cliente, se possui erros de implemantação, erros de uso, manutenção e a funcionalidade do projeto.
+Implantação: fase final onde o software está pronto, ja a ser entregue ao cliente para que ele possa usar, essa fase o desenvolvedor mostra como o cliente deve usa-lo no dia a dia, e ver a manutençao durante a vida do software. 
