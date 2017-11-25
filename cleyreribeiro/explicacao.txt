@@ -1,0 +1,6 @@
+git ls-files
+Deletando todos os aquivos removidos ao mesmo tempo
+
+git status
+Saber o status do projeto é importante. Com o comando abaixo você consegue ver quais arquivos estão fora do controle, quais foram modificados e estão esperando por uma descrição de modificação etc
+
