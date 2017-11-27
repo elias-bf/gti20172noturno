@@ -1,0 +1,3 @@
+git ls-files = Isso funde a listagem de arquivos no índice de cache de diretório com a lista de diretório de trabalho real e mostra combinações diferentes dos dois.
+
+git status = Exibe caminhos que têm diferenças entre o arquivo de índice e o commit HEAD atual, caminhos que têm diferenças entre a árvore de trabalho e o arquivo de índice e os caminhos na árvore de trabalho que não são rastreados pelo Git . O primeiro é o que você comete executando git commit; o segundo eo terceiro são o que você pode cometer executando git add antes de executar git commit.

@@ -1,0 +1,41 @@
+package criacao_de_classe;
+
+import javax.swing.JOptionPane;
+
+public class Classes {
+	public static void main(String[] args) {
+
+		Cadeira cadeira01 = new Cadeira();
+		Sala sala01 = new Sala();
+		Computador note = new Computador();
+
+		cadeira01.setAltura(1);
+		cadeira01.setCor("Azul");
+		cadeira01.setLargura(2);
+		cadeira01.setMaterial("Metal");
+
+		JOptionPane.showMessageDialog(null, cadeira01.imprimir());
+
+		System.out.println("");
+
+		sala01.setAndar(3);
+		sala01.setNumCadeiras(62);
+		sala01.setNumMesas(31);
+		sala01.setTamanho(7);
+
+		JOptionPane.showMessageDialog(null, sala01.imprimir());
+
+		System.out.println("");
+
+		note.setHd(500);
+		note.setMemoria(16);
+		note.setPreco(3500);
+		note.setProcessador("AMD");
+		// note.retornaDados();
+		JOptionPane.showMessageDialog(null, note.retornaDados());
+		// JOptionPane.showMessageDialog(null, "Processador: " +
+		// note.getProcessador());
+
+	}
+
+}
