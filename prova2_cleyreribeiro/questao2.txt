@@ -1,0 +1,13 @@
+Analise: Na fase de analise, será analisado o projeto, para saber o cliente deseja implementar,
+muitas das vezes nem o cliente sabe oque realmente quer, nessa fase conseguimos saber através da analise.
+
+Projeto: Nessa fase começa o projeto, a contrução de metodos, a construção do programa a qual foi
+analisado.
+
+Implementação: na fazer de implementação, será implantado, novas funçoes, uma nova visão para o 
+projeto, o implementando.
+
+Teste: Serão feito os testes necessarios para que o programa rode conforme o cliente solicitou,
+serão consertados bugs é feito todos os testes.
+
+implantação: Nessa fazer o programa será implantado, entregue ao cliente, mais isso não significa que ele esta 100%, poderá haver também correçôes nessa etapa de implantação, que não foram pegas pela fase de teste.

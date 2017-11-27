@@ -1,0 +1,24 @@
+ nalise:
+
+ver com o cliente o que ele quer, e o que ele espera alcancar com o sistema, com isso ele vai passar toda a sua nescessidade e de que ele precisa para resolver o seu problema em sua empresa.
+
+Projeto:
+
+sera feito um escopo e vai ser montado o caso de uso e definir todos os parametros para esse sistema, nessa etapa sera montado todos os processo e definodo as classe e metodos do sistema, passando pro todo precesso padrao de uma construçao de sistema, engenharia de software,engenharia de projeto.
+
+
+Implementação:
+
+
+essa etapa ja esta começando o construcao do software e implementaçao do codigo
+deste sistema assim siguindo todo o planejamento feito na etapa anterior.
+
+
+Teste:
+
+nesta etapa podemos começar a fazer os teste de tudo o que foi pedido pelo cliente e rever todoas as etapas anteriores se esta tudo como pedido e como planejado desdo começo. Fazendo ate os testes no ambiente onde sera implantado o software.
+
+Implantação:
+
+
+já no cliente e em seu local natural sera implantado o sistema e mais uma vez verificado todoas etapas anteriores para ter certeza que esta tudo funcionando e da forma que o cliente pediu.

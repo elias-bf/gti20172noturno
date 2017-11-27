@@ -1,0 +1,5 @@
+1. Para cada livro incorporado ao pedido, deve-se informar a quantidade desejada e se o livro deverá ser embrulhado para presente.
+2. Quando o primeiro livro é incorporado ao pedido, registra-se a data de início do pedido.
+3. Caso o cliente ainda não esteja cadastrado, ele deverá se cadastrar na finalização do pedido.
+4. Pedidos em elaboração que não forem finalizados até 10 dias após o seu início são excluidos do sistema.
+5. Quando um pedido é despachado, deve-se registrar a data de envio do pedido para o cliente.

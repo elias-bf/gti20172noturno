@@ -1,0 +1,5 @@
+Análise:Eliciar requisitos , verificar os problemas do software , achar a solução para o problema do cliente.
+Projeto:Criar os projetos do que deve ser feito, criar modelos, transformar os requisitos em ação.
+Implementação:Criar código-fonte do software, interface gréfica, etc.
+Teste:Verificar se o software está funcionando conforme o esperado, testando suas funcionalidades e se tiver algum defeito voltar e refazer as fases anteriores.
+Implantação:Entregar o software funcionando para o cliente, oferecendo suporte caso precise.

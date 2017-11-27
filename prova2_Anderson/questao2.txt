@@ -1,0 +1,11 @@
+Análise = : Na Analise de requisitos é onde são levantados os requisitos do cliente, entendendo o problema que deve ser resolvido.
+
+Projeto =  Na fase de projeto são planejadas as etapas que virão, quais atividades devem ser executadas para
+a resolução do problema.
+
+Implementação = Fase onde o programa é codificado seguindo os parâmetros do planejamento.
+
+Teste =  No teste o programa é testado, validando suas funções e verificando se o programa realmente funciona.
+
+Implantação = A implementação e quando o software fica pronto e irá uma pessoa pra mostrar o funcionamento 
+e treinar para a melhor utilização do software

@@ -1,0 +1,50 @@
+questao2
+
+Analise: Na fase de analise, será analisado o projeto, para saber o cliente deseja implementar,
+muitas das vezes nem o cliente sabe oque realmente quer, nessa fase conseguimos saber através da analise.
+
+Projeto: Nessa fase começa o projeto, a contrução de metodos, a construção do programa a qual foi
+analisado.
+
+Implementação: na fazer de implementação, será implantado, novas funçoes, uma nova visão para o 
+projeto, o implementando.
+
+Teste: Serão feito os testes necessarios para que o programa rode conforme o cliente solicitou,
+serão consertados bugs é feito todos os testes.
+
+implantação: Nessa fazer o programa será implantado, entregue ao cliente, mais isso não significa que ele esta 100%, poderá haver também correçôes nessa etapa de implantação, que não foram pegas pela fase de teste.
+
+questao numero 3
+
+letra A _ Criar um commit do arquivo "principal.java" localmente, para posterior envio ao repositorio remoto
+
+questao 4
+
+Teste: é uma atividade que revela que o software tem defeitos. É um processo de execução de um programa com o objetivo de revelar a presença de falhas. 
+
+Debugging: é o processo de encontrar onde esta o defeito. apos revelada a presença da falha, esta deve ser encontrada e corrigida.
+
+questao 5
+
+O sistema recebe dois valores numericos inteiros
+
+entrada               saida
+(N1=15;N2=2)          Resultado = 13
+(N1=8;N2=23)          Resultado = 25
+
+questao 7
+
+Requisitos Funcionais
+
+1- Quando o primeiro livro e incorporado ao pedido, registra-se a data de inicio do pedido.
+
+2- De um cliente deseja-se saber: nome, endereço, e-mail e senha
+
+3- Os pedidos so podem ser pagos em cartao e, quando autorizado pelo sistema de Operadoras de cartão
+
+4- o numero da autorização e o valor pago devem ser registrados no pedido
+
+5- Pedidos em elaboração que nao forem finalizados ate 10 dias apos o seu inicio são excluidos do sistema.
+
+
+

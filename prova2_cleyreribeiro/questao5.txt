@@ -1,0 +1,5 @@
+O sistema recebe dois valores numericos inteiros
+
+entrada               saida
+(N1=15;N2=2)          Resultado = 13
+(N1=8;N2=23)          Resultado = 25

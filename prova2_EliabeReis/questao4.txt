@@ -1,0 +1,6 @@
+Teste 
+É  um processo de execução de um programa com o objetivo de revelar a presença de falhas.
+
+Debugging
+O processo de encontrar onde esta o defeito.
+É um processo de localização e corrige esses defeitos (utilizando ou não ferramenta).
