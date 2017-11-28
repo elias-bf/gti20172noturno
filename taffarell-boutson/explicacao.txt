@@ -1,0 +1,8 @@
+
+
+git ls-files
+Mostra os arquivos que estão sendo controlados (indexados) pelo git.
+
+git status
+Permite ver quais arquivos estão fora do controle, quais foram modificados e 
+estão esperando por uma descrição de modificação etc:
